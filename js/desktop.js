@@ -14,7 +14,6 @@ $(function(){
         {name:'工具箱',url:'https://tool.browser.qq.com/',icon:'./img/qbtool-latest.png'},
         {name:'站点监控',url:'http://status.hylove.top/',icon:'./img/status.png'},
         {name:'壁纸图片',url:'https://edmeitu.com/index.html',icon:'./img/j.webp'},
-
         {name:'随机视频1',url:'https://97by.cn/sj/',icon:'./img/1girl.jpg'},
         {name:'随机视频2',url:'https://mm.hylove.top/',icon:'./img/2girl.jpg'},
         {name:'游戏',url:'https://xingye.me/game/index.php',icon:'./img/g.webp'},
@@ -31,7 +30,6 @@ $(function(){
         {name:'音乐解析1',url:'https://www.fangpi.net/',icon:'./img/music5.jpg'},
         {name:'音乐解析2',url:'https://music.wujiyan.cc/',icon:'./img/music2.jpg'},
         {name:'音乐解析3',url:'https://www.musicenc.com/',icon:'./img/music4.jpg'},
-
         {name:'哔哩哔哩bilibili',url:'http://bilibili.com/',icon:'./img/bilibili.png'},
         {name:'小白の起始页',url:'http://xydh.fun/hy123',icon:'./img/hy123.jpg'},
         {name:'路遥知马力-软件之家',url:'http://lovehy.ysepan.com/',icon:'./img/rjyspan.png'},
